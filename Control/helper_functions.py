@@ -1,8 +1,6 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 from PIL import Image
-from numpy.core.einsumfunc import _parse_possible_contraction
 
 from torchvision.transforms import functional as TF
 from torchvision.transforms import Compose, Resize

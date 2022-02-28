@@ -15,8 +15,8 @@ Programs List
     1.2. VisualDrone_collaborative_drones.onnx: Trained neural network model file for collaborative two drones target search in ONNX format
 2. /Control/
 
-    2.1. single_drone_control.py: Python script file for controlling the single drone target search using the model in 1.1      
-    2.2. collaborative_two_drones_control.py: Python script file for controlling the collaborative two drones target search using the model in 1.2    
+    2.1. single_drone_control.py: Python script file for controlling the single drone target search using the model in (1.1)      
+    2.2. collaborative_two_drones_control.py: Python script file for controlling the collaborative two drones target search using the model in (1.2)    
 
 System Requirement
 1. Ubuntu 18.04 or 20.04
