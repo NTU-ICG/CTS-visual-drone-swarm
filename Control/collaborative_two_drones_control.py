@@ -34,7 +34,7 @@ telloID2 = "tello2"
 frame_count = 0
 
 ## ONNX Model for Drone Decision Making ##
-model = "./model/VisualDroneCD3.onnx"
+model = "./model/VisualDrone_collaborative_drones.onnx"
 sess = ort.InferenceSession(model)
 
 obs_0 = sess.get_inputs()[0].name
@@ -93,7 +93,6 @@ def cb_cmd_vel(drone, continuous_action):
 def handler(event, sender, data, **args):
     drone = sender
     if event is drone.EVENT_FLIGHT_DATA:
-        # print(data)
         pass
         
 def main():
