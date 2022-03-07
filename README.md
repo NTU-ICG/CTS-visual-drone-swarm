@@ -28,7 +28,7 @@
 1. ROS Melodic or Noetic
 2. TelloPy library (https://github.com/hanyazou/TelloPy)
 3. PyAV library (https://github.com/PyAV-Org/PyAV)
-4. vrpn_client_ros ROS 1 Package
+4. vrpn_client_ros ROS 1 Package (http://wiki.ros.org/vrpn_client_ros)
 5. ONNX Runtime
 6. Torchvision
 7. OpenCV
