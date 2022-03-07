@@ -22,7 +22,7 @@
 
 ### System Requirement
 1. Ubuntu 18.04 or 20.04
-2. AMD architecture device
+2. AMD architecture device (Strongly recommended, but not required)
 
 ### Dependencies and Software Requirements
 1. ROS Melodic or Noetic
