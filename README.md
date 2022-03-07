@@ -9,8 +9,8 @@
 
 ### Running Program
 1. Navigate to the repository folder
-2. `cd Control`
-3. `python3 single_drone_control.py` for controlling a single drone or `python3 collaborative_two_drones_control.py`for controlling two drones using one computing device for each drone
+2. Type in the terminal `cd Control`
+3. Type in the terminal `python3 single_drone_control.py` for controlling a single drone or `python3 collaborative_two_drones_control.py`for controlling two drones using one computing device for each drone
 
 ### Programs List   
 1. #### /Models/
