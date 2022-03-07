@@ -4,7 +4,7 @@
 ### Setup
 1. Connect the computing center to the same network used by the OptiTrack Mocap Server. It is recommended that the ethernet cable is used for this connection to avoid using multiple wireless adapters.
 2. Configure Motive application on the OptiTrack Mocap Server to stream data related to drones to address location `192.168.1.100`
-3. Edit `sample.launch` default launch file of `vrpn_client_ros` (file location: `/opt/ros/<ros_distro>/...`)to change the IP address from localhost to `192.168.1.100`, used by the OptiTrack Mocap Server
+3. Edit `sample.launch` default launch file of `vrpn_client_ros` (use `roscd vrpn_client_ros && cd launch` to navigate to the launch file) to change the IP address from localhost to `192.168.1.100`, used by the OptiTrack Mocap Server
 4. Connect a DJI Tello Edu drone using wireless adapter directly or docker container (please refer to the extra instruction)
 
 ### Running Program
