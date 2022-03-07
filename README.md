@@ -1,6 +1,15 @@
 # Collaborative Target Search with a Visual Drone Swarm: Adaptive Curriculum Embedded  Multi-stage Reinforcement Learning Approach
 ### Code for the paper "Collaborative Target Search with a Visual Drone Swarm: Adaptive Curriculum Embedded  Multi-stage Reinforcement Learning Approach"
 
+### Setup
+1. Set Motive PC application to stream the drone address to address location 192.168.1.100
+2. Configure `sample.launch` default launch file of `vrpn_client_ros` to set the IP address from localhost to 192.168.1.100
+3. Connect DJI Tello Drone using wireless adapter directly or docker container (please refer to the instruction)
+
+### Running Program
+1. Navigate to the repository folder
+2. `cd Control`
+3. `python3 single_drone_control.py` or `python3 collaborative_two_drones_control.py`
 
 ### Programs List   
 1. #### /Models/
@@ -18,8 +27,9 @@
 1. ROS Melodic or Noetic
 2. TelloPy library (https://github.com/hanyazou/TelloPy)
 3. PyAV library (https://github.com/PyAV-Org/PyAV)
-4. ONNX Runtime
-5. Torchvision
-6. OpenCV
-7. PIL library
-8. NumPy
+4. vrpn_client_ros ROS 1 Package
+5. ONNX Runtime
+6. Torchvision
+7. OpenCV
+8. PIL library
+9. NumPy
