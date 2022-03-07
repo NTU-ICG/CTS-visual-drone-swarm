@@ -2,14 +2,15 @@
 ### Code for the paper "Collaborative Target Search with a Visual Drone Swarm: Adaptive Curriculum Embedded  Multi-stage Reinforcement Learning Approach"
 
 ### Setup
-1. Set Motive PC application to stream the drone address to address location 192.168.1.100
-2. Configure `sample.launch` default launch file of `vrpn_client_ros` to set the IP address from localhost to 192.168.1.100
-3. Connect DJI Tello Drone using wireless adapter directly or docker container (please refer to the instruction)
+1. Connect the computing center to the same network used by the OptiTrack Mocap Server. It is recommended that the ethernet cable is used for this connection to avoid using multiple wireless adapters.
+2. Configure Motive application on the OptiTrack Mocap Server to stream data related to drones to address location `192.168.1.100`
+3. Edit `sample.launch` default launch file of `vrpn_client_ros` (file location: `/opt/ros/<ros_distro>/...`)to change the IP address from localhost to `192.168.1.100`, used by the OptiTrack Mocap Server
+4. Connect a DJI Tello Edu drone using wireless adapter directly or docker container (please refer to the extra instruction)
 
 ### Running Program
 1. Navigate to the repository folder
 2. `cd Control`
-3. `python3 single_drone_control.py` or `python3 collaborative_two_drones_control.py`
+3. `python3 single_drone_control.py` for controlling a single drone or `python3 collaborative_two_drones_control.py`for controlling two drones using one computing device for each drone
 
 ### Programs List   
 1. #### /Models/
