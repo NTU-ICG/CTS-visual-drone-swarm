@@ -2,10 +2,11 @@
 ### Code for the paper "Collaborative Target Search with a Visual Drone Swarm: Adaptive Curriculum Embedded  Multi-stage Reinforcement Learning Approach"
 
 ### Setup
-1. Connect the computing center to the same network used by the OptiTrack Mocap Server. It is recommended that the ethernet cable is used for this connection to avoid using multiple wireless adapters.
-2. Configure Motive application on the OptiTrack Mocap Server to stream data related to drones to address location `192.168.1.100`
-3. Edit `sample.launch` default launch file of `vrpn_client_ros` (use `roscd vrpn_client_ros && cd launch` to navigate to the launch file) to change the IP address from localhost to `192.168.1.100`, used by the OptiTrack Mocap Server
-4. Connect a DJI Tello Edu drone using wireless adapter directly or docker container (please refer to the extra instruction)
+1. `pip install -r requirements.txt` to set up the dependencies and software requirements. This result of running this command does not include ROS installation. This requirement is tested on an AMD64 architecture device running Ubuntu 20.04 and ROS Noetic.
+3. Connect the computing center to the same network used by the OptiTrack Mocap Server. It is recommended that the ethernet cable is used for this connection to avoid using multiple wireless adapters.
+4. Configure Motive application on the OptiTrack Mocap Server to stream data related to drones to address location `192.168.1.100`
+5. Edit `sample.launch` default launch file of `vrpn_client_ros` (use `roscd vrpn_client_ros && cd launch` to navigate to the launch file) to change the IP address from localhost to `192.168.1.100`, used by the OptiTrack Mocap Server
+6. Connect a DJI Tello Edu drone using wireless adapter directly or docker container (please refer to the extra instruction)
 
 ### Running Program
 1. Navigate to the repository folder
