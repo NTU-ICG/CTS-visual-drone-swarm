@@ -8,7 +8,7 @@
 
 ### Demo
 <div style="text-align: center">
-<img src="assets/demo.gif" style="width:110%; height:110%"  >
+<img src="assets/demo.gif" style="width:80%; height:80%"  >
 </div>
 
 ### Setup
