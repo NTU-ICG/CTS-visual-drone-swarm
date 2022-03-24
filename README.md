@@ -3,7 +3,7 @@
 
 ### Pipeline
 <div style="text-align: center">
-<img src="assets/pipeline.PNG" >
+<img src="assets/pipeline.png" >
 </div>
 
 ### Sample Inference
