@@ -8,7 +8,7 @@
 
 ### Sample Inference
 <div style="text-align: center">
-<img src="assets/drone.gif" >
+<img src="assets/demo.gif" >
 </div>
 
 ### Setup
