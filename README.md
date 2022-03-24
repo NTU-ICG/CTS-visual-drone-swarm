@@ -6,9 +6,9 @@
 <img src="assets/pipeline.png" style="width:80%; height:80%" >
 </div>
 
-### Sample Inference
+### Demo
 <div style="text-align: center">
-<img src="assets/demo.gif" style="width:120%; height:120%"  >
+<img src="assets/demo.gif" style="width:110%; height:110%"  >
 </div>
 
 ### Setup
