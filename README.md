@@ -3,12 +3,12 @@
 
 ### Pipeline
 <div style="text-align: center">
-<img src="assets/pipeline.png" style="width:50%; height:50%" >
+<img src="assets/pipeline.png" style="width:70%; height:70%" >
 </div>
 
 ### Sample Inference
 <div style="text-align: center">
-<img src="assets/demo.gif" style="width:200%; height:200%"  >
+<img src="assets/demo.gif" style="width:130%; height:130%"  >
 </div>
 
 ### Setup
