@@ -1,6 +1,16 @@
 # Collaborative Target Search with a Visual Drone Swarm: Adaptive Curriculum Embedded  Multi-stage Reinforcement Learning Approach
 ### Code for the paper "Collaborative Target Search with a Visual Drone Swarm: Adaptive Curriculum Embedded  Multi-stage Reinforcement Learning Approach"
 
+### Pipeline
+<div style="text-align: center">
+<img src="assets/pipeline.PNG" >
+</div>
+
+### Sample Inference
+<div style="text-align: center">
+<img src="assets/drone.gif" >
+</div>
+
 ### Setup
 1. `pip install -r requirements.txt` to set up the dependencies and software requirements. This result of running this command does not include ROS installation. This requirement is tested on an AMD64 architecture device running Ubuntu 20.04 and ROS Noetic.
 3. Connect the computing center to the same network used by the OptiTrack Mocap Server. It is recommended that the ethernet cable is used for this connection to avoid using multiple wireless adapters.
