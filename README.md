@@ -2,12 +2,12 @@
 ### Code for the paper "Collaborative Target Search with a Visual Drone Swarm: Adaptive Curriculum Embedded  Multi-stage Reinforcement Learning Approach"
 
 ### Pipeline
-<div style="text-align: center">
+<div style="text-align: center;width:15cm"">
 <img src="assets/pipeline.png" >
 </div>
 
 ### Sample Inference
-<div style="text-align: center">
+<div style="text-align: center;width:15cm">
 <img src="assets/demo.gif" >
 </div>
 
