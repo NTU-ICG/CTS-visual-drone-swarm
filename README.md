@@ -1,14 +1,15 @@
 # Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach
 ### Code for the paper "Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach"
 
-Please cite the following paper:
-
+If you are interested, please cite the following paper:  
+```
 @article{xiao2022collaborative,
   title={Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach},
   author={Xiao, Jiaping and Pisutsin, Phumrapee and Feroskhan, Mir},
   journal={arXiv preprint arXiv:2204.12181},
   year={2022}
 }
+```
 
 ## Pipeline
 <div style="text-align: center">
