@@ -11,7 +11,7 @@ If you are using the code, please cite the following paper:
 }
 ```
 
-The updated video refers to the [https://youtu.be/jnVLEBWte1U].
+**The updated video refers to the [https://youtu.be/jnVLEBWte1U].**
 
 ## Pipeline
 <div style="text-align: center">
