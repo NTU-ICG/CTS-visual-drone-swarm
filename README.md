@@ -26,7 +26,7 @@ If you are using the code, please cite the following paper:
 
 ### Environment 2 (Env 2)
 <div style="text-align: center">
-<img src="assets/env2.gif" style="width:200%; height:200%"  >
+<img src="assets/env2.gif" style="width:100%; height:100%"  >
 </div>
 
 
