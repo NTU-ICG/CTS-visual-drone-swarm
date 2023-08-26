@@ -21,12 +21,12 @@ If you are using the code, please cite the following paper:
 ## Demo
 ### Environment 1 (Env 1)
 <div style="text-align: center">
-<img src="assets/demo.gif" width="200"  >
+<img src="assets/demo.gif" width="600"  >
 </div>
 
 ### Environment 2 (Env 2)
 <div style="text-align: center">
-<img src="assets/env2.gif" width="200"  >
+<img src="assets/env2.gif" width="600"  >
 </div>
 
 
