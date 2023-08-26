@@ -19,9 +19,17 @@ If you are using the code, please cite the following paper:
 </div>
 
 ## Demo
+### Environment 1 (Env 1)
 <div style="text-align: center">
 <img src="assets/demo.gif" style="width:200%; height:200%"  >
 </div>
+
+### Environment 2 (Env 2)
+<div style="text-align: center">
+<img src="assets/env2.gif" style="width:200%; height:200%"  >
+</div>
+
+
 
 ## Setup
 1. `pip install -r requirements.txt` to set up the dependencies and software requirements. This result of running this command does not include ROS installation. This requirement is tested on an AMD64 architecture device running Ubuntu 20.04 and ROS Noetic.
