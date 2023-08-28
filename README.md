@@ -29,6 +29,19 @@ If you are using the code, please consider giving us a star 🌟 and citing our 
 <img src="assets/env2.gif" width="700"  >
 </div>
 
+**Target Distribution for Env 2**
+## Table
+
+|   | position1 | position2 | position3 | position4 | position5 | position6 | position7 | position8 | position9 |
+|---|----------:|----------:|----------:|----------:|----------:|----------:|----------:|----------:|----------:|
+| x |      2.88 |      0.25 |      1.84 |     -0.45 |     -1.78 |     -2.38 |     -2.38 |      2.08 |      2.05 |
+| y |      4.63 |      4.29 |      6.33 |      6.48 |      6.47 |      5.41 |      1.81 |      1.49 |      3.46 |
+| z |      0.27 |      0.24 |      0.24 |      0.20 |      0.18 |      0.19 |      0.26 |      0.31 |      0.28 |
+
+<div style="text-align: center">
+<img src="assets/target-dist" width="700"  >
+</div>
+
 
 
 ## Setup
