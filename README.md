@@ -41,7 +41,7 @@ If you are using the code, please consider giving us a star 🌟 and citing our 
 
 
 <div style="text-align: center">
-<img src="assets/target-dist-label.jpg" width="600"  >
+<img src="assets/target-dist-label.jpg" width="700"  >
 </div>
 
 
