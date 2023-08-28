@@ -39,7 +39,7 @@ If you are using the code, please consider giving us a star 🌟 and citing our 
 | z |      0.27 |      0.24 |      0.24 |      0.20 |      0.18 |      0.19 |      0.26 |      0.31 |      0.28 |
 
 <div style="text-align: center">
-<img src="assets/target-dist=label.jpg" width="600"  >
+<img src="assets/target-dist-label.jpg" width="600"  >
 </div>
 
 
