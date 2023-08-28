@@ -31,7 +31,7 @@ If you are using the code, please consider giving us a star 🌟 and citing our 
 
 
 
-<p align="center"><i>Table 1: Target Distribution for Env 2</i></p>
+<p align="left"><i>Table 1: Target Distribution for Env 2</i></p>
 
 |   | Position 1 | Position 2 | Position 3 | Position 4 | Position 5 | Position 6 | Position 7 | Position 8 | Position 9 |
 |---|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|
