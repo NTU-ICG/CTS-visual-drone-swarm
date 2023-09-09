@@ -1,4 +1,6 @@
 # Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+
 ### Official project website for the paper "Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach"
 
 If you are using the code, please consider giving us a star 🌟 and citing our paper:
