@@ -3,7 +3,7 @@
 
 ### Official project website for the paper "Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach"
 
-If you are using the code, please consider giving us a star 🌟 and citing our paper:
+If you are using the code, please give us a star 🌟 and cite our paper:
 ```
 @article{xiao2022collaborative,
   title={Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach},
