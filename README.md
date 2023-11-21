@@ -5,12 +5,15 @@
 
 If you are using the code, please give us a star 🌟 and cite our paper:
 ```
-@article{xiao2022collaborative,
-  title={Collaborative Target Search with a Visual Drone Swarm: An Adaptive Curriculum Embedded Multi-stage Reinforcement Learning Approach},
+@ARTICLE{10322867,
   author={Xiao, Jiaping and Pisutsin, Phumrapee and Feroskhan, Mir},
-  journal={arXiv preprint arXiv:2204.12181},
-  year={2022}
-}
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Collaborative Target Search With a Visual Drone Swarm: An Adaptive Curriculum Embedded Multistage Reinforcement Learning Approach}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2023.3331370}}
 ```
 
 **The updated video refers to the [https://youtu.be/jnVLEBWte1U].**
