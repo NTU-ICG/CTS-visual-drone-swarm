@@ -19,7 +19,7 @@ If you are using the code, please give us a star 🌟 and cite our paper:
 **The updated video refers to the [https://youtu.be/jnVLEBWte1U].**
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jnVLEBWte1U/0.jpg)](https://www.youtube.com/watch?v=jnVLEBWte1U)
+[![Video](https://img.youtube.com/vi/jnVLEBWte1U/0.jpg)](https://www.youtube.com/watch?v=jnVLEBWte1U)
 
 ## Pipeline
 <div style="text-align: center">
