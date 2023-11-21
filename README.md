@@ -21,6 +21,12 @@ If you are using the code, please give us a star 🌟 and cite our paper:
 
 [![Video](https://img.youtube.com/vi/jnVLEBWte1U/hqdefault.jpg)](https://www.youtube.com/watch?v=jnVLEBWte1U)
 
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=jnVLEBWte1U">
+         <img src="https://img.youtube.com/vi/jnVLEBWte1U/0.jpg" width="700">
+      </a>
+</div>
+
 ## Pipeline
 <div style="text-align: center">
 <img src="assets/pipeline.png" style="width:80%; height:80%" >
