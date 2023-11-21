@@ -18,12 +18,9 @@ If you are using the code, please give us a star 🌟 and cite our paper:
 
 **The updated video refers to the [https://youtu.be/jnVLEBWte1U].**
 
-
-[![Video](https://img.youtube.com/vi/jnVLEBWte1U/hqdefault.jpg)](https://www.youtube.com/watch?v=jnVLEBWte1U)
-
-<div align="center">
+<div align="left">
       <a href="https://www.youtube.com/watch?v=jnVLEBWte1U">
-         <img src="https://img.youtube.com/vi/jnVLEBWte1U/0.jpg" width="700", height="400">
+         <img src="https://img.youtube.com/vi/jnVLEBWte1U/0.jpg" width="700", height="500">
       </a>
 </div>
 
