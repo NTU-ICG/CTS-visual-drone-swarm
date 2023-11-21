@@ -23,7 +23,7 @@ If you are using the code, please give us a star 🌟 and cite our paper:
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=jnVLEBWte1U">
-         <img src="https://img.youtube.com/vi/jnVLEBWte1U/0.jpg" width="700">
+         <img src="https://img.youtube.com/vi/jnVLEBWte1U/0.jpg" width="700", height="400">
       </a>
 </div>
 
