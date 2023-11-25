@@ -20,7 +20,7 @@ If you are using the code, please give us a star 🌟 and cite our paper:
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=jnVLEBWte1U">
-         <img src="https://img.youtube.com/vi/jnVLEBWte1U/0.jpg" width="700", height="500">
+         <img src="https://img.youtube.com/vi/jnVLEBWte1U/0.jpg" width="700">
       </a>
 </div>
 
